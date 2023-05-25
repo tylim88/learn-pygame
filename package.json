@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "watch": "nodemon --exec py src/main.py"
+    "watch": "nodemon src/main.py"
   },
   "author": "",
   "license": "ISC",
